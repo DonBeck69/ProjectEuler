@@ -1,0 +1,4 @@
+D:\Dev\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csprojAssemblyReference.cache
+D:\Dev\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfoInputs.cache
+D:\Dev\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.AssemblyInfo.cs
+D:\Dev\ProjectEuler\obj\Debug\netcoreapp3.1\ProjectEuler.csproj.CoreCompileInputs.cache

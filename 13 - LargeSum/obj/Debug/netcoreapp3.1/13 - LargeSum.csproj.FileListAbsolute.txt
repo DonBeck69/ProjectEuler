@@ -1,0 +1,13 @@
+D:\Dev\Euler\13 - LargeSum\bin\Debug\netcoreapp3.1\13 - LargeSum.exe
+D:\Dev\Euler\13 - LargeSum\bin\Debug\netcoreapp3.1\13 - LargeSum.deps.json
+D:\Dev\Euler\13 - LargeSum\bin\Debug\netcoreapp3.1\13 - LargeSum.runtimeconfig.json
+D:\Dev\Euler\13 - LargeSum\bin\Debug\netcoreapp3.1\13 - LargeSum.runtimeconfig.dev.json
+D:\Dev\Euler\13 - LargeSum\bin\Debug\netcoreapp3.1\13 - LargeSum.dll
+D:\Dev\Euler\13 - LargeSum\bin\Debug\netcoreapp3.1\13 - LargeSum.pdb
+D:\Dev\Euler\13 - LargeSum\obj\Debug\netcoreapp3.1\13 - LargeSum.csprojAssemblyReference.cache
+D:\Dev\Euler\13 - LargeSum\obj\Debug\netcoreapp3.1\13 - LargeSum.AssemblyInfoInputs.cache
+D:\Dev\Euler\13 - LargeSum\obj\Debug\netcoreapp3.1\13 - LargeSum.AssemblyInfo.cs
+D:\Dev\Euler\13 - LargeSum\obj\Debug\netcoreapp3.1\13 - LargeSum.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\13 - LargeSum\obj\Debug\netcoreapp3.1\13 - LargeSum.dll
+D:\Dev\Euler\13 - LargeSum\obj\Debug\netcoreapp3.1\13 - LargeSum.pdb
+D:\Dev\Euler\13 - LargeSum\obj\Debug\netcoreapp3.1\13 - LargeSum.genruntimeconfig.cache

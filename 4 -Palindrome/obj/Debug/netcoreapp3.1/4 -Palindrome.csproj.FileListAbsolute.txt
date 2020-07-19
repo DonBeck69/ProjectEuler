@@ -1,0 +1,13 @@
+D:\Dev\Euler\4 -Palindrome\bin\Debug\netcoreapp3.1\4 -Palindrome.exe
+D:\Dev\Euler\4 -Palindrome\bin\Debug\netcoreapp3.1\4 -Palindrome.deps.json
+D:\Dev\Euler\4 -Palindrome\bin\Debug\netcoreapp3.1\4 -Palindrome.runtimeconfig.json
+D:\Dev\Euler\4 -Palindrome\bin\Debug\netcoreapp3.1\4 -Palindrome.runtimeconfig.dev.json
+D:\Dev\Euler\4 -Palindrome\bin\Debug\netcoreapp3.1\4 -Palindrome.dll
+D:\Dev\Euler\4 -Palindrome\bin\Debug\netcoreapp3.1\4 -Palindrome.pdb
+D:\Dev\Euler\4 -Palindrome\obj\Debug\netcoreapp3.1\4 -Palindrome.csprojAssemblyReference.cache
+D:\Dev\Euler\4 -Palindrome\obj\Debug\netcoreapp3.1\4 -Palindrome.AssemblyInfoInputs.cache
+D:\Dev\Euler\4 -Palindrome\obj\Debug\netcoreapp3.1\4 -Palindrome.AssemblyInfo.cs
+D:\Dev\Euler\4 -Palindrome\obj\Debug\netcoreapp3.1\4 -Palindrome.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\4 -Palindrome\obj\Debug\netcoreapp3.1\4 -Palindrome.dll
+D:\Dev\Euler\4 -Palindrome\obj\Debug\netcoreapp3.1\4 -Palindrome.pdb
+D:\Dev\Euler\4 -Palindrome\obj\Debug\netcoreapp3.1\4 -Palindrome.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Dev\Euler\16 - PowerDigitSum big numbers\bin\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.exe
+D:\Dev\Euler\16 - PowerDigitSum big numbers\bin\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.deps.json
+D:\Dev\Euler\16 - PowerDigitSum big numbers\bin\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.runtimeconfig.json
+D:\Dev\Euler\16 - PowerDigitSum big numbers\bin\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.runtimeconfig.dev.json
+D:\Dev\Euler\16 - PowerDigitSum big numbers\bin\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.dll
+D:\Dev\Euler\16 - PowerDigitSum big numbers\bin\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.pdb
+D:\Dev\Euler\16 - PowerDigitSum big numbers\obj\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.csprojAssemblyReference.cache
+D:\Dev\Euler\16 - PowerDigitSum big numbers\obj\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.AssemblyInfoInputs.cache
+D:\Dev\Euler\16 - PowerDigitSum big numbers\obj\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.AssemblyInfo.cs
+D:\Dev\Euler\16 - PowerDigitSum big numbers\obj\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\16 - PowerDigitSum big numbers\obj\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.dll
+D:\Dev\Euler\16 - PowerDigitSum big numbers\obj\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.pdb
+D:\Dev\Euler\16 - PowerDigitSum big numbers\obj\Debug\netcoreapp3.1\16 - PowerDigitSum big numbers.genruntimeconfig.cache

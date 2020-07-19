@@ -1,0 +1,13 @@
+D:\Dev\Euler\9 - PythagoreanTrip\bin\Debug\netcoreapp3.1\9 - PythagoreanTrip.exe
+D:\Dev\Euler\9 - PythagoreanTrip\bin\Debug\netcoreapp3.1\9 - PythagoreanTrip.deps.json
+D:\Dev\Euler\9 - PythagoreanTrip\bin\Debug\netcoreapp3.1\9 - PythagoreanTrip.runtimeconfig.json
+D:\Dev\Euler\9 - PythagoreanTrip\bin\Debug\netcoreapp3.1\9 - PythagoreanTrip.runtimeconfig.dev.json
+D:\Dev\Euler\9 - PythagoreanTrip\bin\Debug\netcoreapp3.1\9 - PythagoreanTrip.dll
+D:\Dev\Euler\9 - PythagoreanTrip\bin\Debug\netcoreapp3.1\9 - PythagoreanTrip.pdb
+D:\Dev\Euler\9 - PythagoreanTrip\obj\Debug\netcoreapp3.1\9 - PythagoreanTrip.csprojAssemblyReference.cache
+D:\Dev\Euler\9 - PythagoreanTrip\obj\Debug\netcoreapp3.1\9 - PythagoreanTrip.AssemblyInfoInputs.cache
+D:\Dev\Euler\9 - PythagoreanTrip\obj\Debug\netcoreapp3.1\9 - PythagoreanTrip.AssemblyInfo.cs
+D:\Dev\Euler\9 - PythagoreanTrip\obj\Debug\netcoreapp3.1\9 - PythagoreanTrip.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\9 - PythagoreanTrip\obj\Debug\netcoreapp3.1\9 - PythagoreanTrip.dll
+D:\Dev\Euler\9 - PythagoreanTrip\obj\Debug\netcoreapp3.1\9 - PythagoreanTrip.pdb
+D:\Dev\Euler\9 - PythagoreanTrip\obj\Debug\netcoreapp3.1\9 - PythagoreanTrip.genruntimeconfig.cache

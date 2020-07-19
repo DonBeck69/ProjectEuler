@@ -1,0 +1,13 @@
+D:\Dev\Euler\5 - smalest multiple\bin\Debug\netcoreapp3.1\5 - smalest multiple.exe
+D:\Dev\Euler\5 - smalest multiple\bin\Debug\netcoreapp3.1\5 - smalest multiple.deps.json
+D:\Dev\Euler\5 - smalest multiple\bin\Debug\netcoreapp3.1\5 - smalest multiple.runtimeconfig.json
+D:\Dev\Euler\5 - smalest multiple\bin\Debug\netcoreapp3.1\5 - smalest multiple.runtimeconfig.dev.json
+D:\Dev\Euler\5 - smalest multiple\bin\Debug\netcoreapp3.1\5 - smalest multiple.dll
+D:\Dev\Euler\5 - smalest multiple\bin\Debug\netcoreapp3.1\5 - smalest multiple.pdb
+D:\Dev\Euler\5 - smalest multiple\obj\Debug\netcoreapp3.1\5 - smalest multiple.csprojAssemblyReference.cache
+D:\Dev\Euler\5 - smalest multiple\obj\Debug\netcoreapp3.1\5 - smalest multiple.AssemblyInfoInputs.cache
+D:\Dev\Euler\5 - smalest multiple\obj\Debug\netcoreapp3.1\5 - smalest multiple.AssemblyInfo.cs
+D:\Dev\Euler\5 - smalest multiple\obj\Debug\netcoreapp3.1\5 - smalest multiple.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\5 - smalest multiple\obj\Debug\netcoreapp3.1\5 - smalest multiple.dll
+D:\Dev\Euler\5 - smalest multiple\obj\Debug\netcoreapp3.1\5 - smalest multiple.pdb
+D:\Dev\Euler\5 - smalest multiple\obj\Debug\netcoreapp3.1\5 - smalest multiple.genruntimeconfig.cache

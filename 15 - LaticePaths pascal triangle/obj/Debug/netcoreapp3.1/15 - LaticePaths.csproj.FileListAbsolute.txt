@@ -1,0 +1,13 @@
+D:\Dev\Euler\15 - LaticePaths pascal triangle\bin\Debug\netcoreapp3.1\15 - LaticePaths.exe
+D:\Dev\Euler\15 - LaticePaths pascal triangle\bin\Debug\netcoreapp3.1\15 - LaticePaths.deps.json
+D:\Dev\Euler\15 - LaticePaths pascal triangle\bin\Debug\netcoreapp3.1\15 - LaticePaths.runtimeconfig.json
+D:\Dev\Euler\15 - LaticePaths pascal triangle\bin\Debug\netcoreapp3.1\15 - LaticePaths.runtimeconfig.dev.json
+D:\Dev\Euler\15 - LaticePaths pascal triangle\bin\Debug\netcoreapp3.1\15 - LaticePaths.dll
+D:\Dev\Euler\15 - LaticePaths pascal triangle\bin\Debug\netcoreapp3.1\15 - LaticePaths.pdb
+D:\Dev\Euler\15 - LaticePaths pascal triangle\obj\Debug\netcoreapp3.1\15 - LaticePaths.csprojAssemblyReference.cache
+D:\Dev\Euler\15 - LaticePaths pascal triangle\obj\Debug\netcoreapp3.1\15 - LaticePaths.AssemblyInfoInputs.cache
+D:\Dev\Euler\15 - LaticePaths pascal triangle\obj\Debug\netcoreapp3.1\15 - LaticePaths.AssemblyInfo.cs
+D:\Dev\Euler\15 - LaticePaths pascal triangle\obj\Debug\netcoreapp3.1\15 - LaticePaths.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\15 - LaticePaths pascal triangle\obj\Debug\netcoreapp3.1\15 - LaticePaths.dll
+D:\Dev\Euler\15 - LaticePaths pascal triangle\obj\Debug\netcoreapp3.1\15 - LaticePaths.pdb
+D:\Dev\Euler\15 - LaticePaths pascal triangle\obj\Debug\netcoreapp3.1\15 - LaticePaths.genruntimeconfig.cache

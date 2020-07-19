@@ -1,0 +1,13 @@
+D:\Dev\Euler\14 - LongestCollatz\bin\Debug\netcoreapp3.1\14 - LongestCollatz.exe
+D:\Dev\Euler\14 - LongestCollatz\bin\Debug\netcoreapp3.1\14 - LongestCollatz.deps.json
+D:\Dev\Euler\14 - LongestCollatz\bin\Debug\netcoreapp3.1\14 - LongestCollatz.runtimeconfig.json
+D:\Dev\Euler\14 - LongestCollatz\bin\Debug\netcoreapp3.1\14 - LongestCollatz.runtimeconfig.dev.json
+D:\Dev\Euler\14 - LongestCollatz\bin\Debug\netcoreapp3.1\14 - LongestCollatz.dll
+D:\Dev\Euler\14 - LongestCollatz\bin\Debug\netcoreapp3.1\14 - LongestCollatz.pdb
+D:\Dev\Euler\14 - LongestCollatz\obj\Debug\netcoreapp3.1\14 - LongestCollatz.csprojAssemblyReference.cache
+D:\Dev\Euler\14 - LongestCollatz\obj\Debug\netcoreapp3.1\14 - LongestCollatz.AssemblyInfoInputs.cache
+D:\Dev\Euler\14 - LongestCollatz\obj\Debug\netcoreapp3.1\14 - LongestCollatz.AssemblyInfo.cs
+D:\Dev\Euler\14 - LongestCollatz\obj\Debug\netcoreapp3.1\14 - LongestCollatz.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\14 - LongestCollatz\obj\Debug\netcoreapp3.1\14 - LongestCollatz.dll
+D:\Dev\Euler\14 - LongestCollatz\obj\Debug\netcoreapp3.1\14 - LongestCollatz.pdb
+D:\Dev\Euler\14 - LongestCollatz\obj\Debug\netcoreapp3.1\14 - LongestCollatz.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Dev\Euler\7 - 10001prime\bin\Debug\netcoreapp3.1\7 - 10001prime.exe
+D:\Dev\Euler\7 - 10001prime\bin\Debug\netcoreapp3.1\7 - 10001prime.deps.json
+D:\Dev\Euler\7 - 10001prime\bin\Debug\netcoreapp3.1\7 - 10001prime.runtimeconfig.json
+D:\Dev\Euler\7 - 10001prime\bin\Debug\netcoreapp3.1\7 - 10001prime.runtimeconfig.dev.json
+D:\Dev\Euler\7 - 10001prime\bin\Debug\netcoreapp3.1\7 - 10001prime.dll
+D:\Dev\Euler\7 - 10001prime\bin\Debug\netcoreapp3.1\7 - 10001prime.pdb
+D:\Dev\Euler\7 - 10001prime\obj\Debug\netcoreapp3.1\7 - 10001prime.csprojAssemblyReference.cache
+D:\Dev\Euler\7 - 10001prime\obj\Debug\netcoreapp3.1\7 - 10001prime.AssemblyInfoInputs.cache
+D:\Dev\Euler\7 - 10001prime\obj\Debug\netcoreapp3.1\7 - 10001prime.AssemblyInfo.cs
+D:\Dev\Euler\7 - 10001prime\obj\Debug\netcoreapp3.1\7 - 10001prime.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\7 - 10001prime\obj\Debug\netcoreapp3.1\7 - 10001prime.dll
+D:\Dev\Euler\7 - 10001prime\obj\Debug\netcoreapp3.1\7 - 10001prime.pdb
+D:\Dev\Euler\7 - 10001prime\obj\Debug\netcoreapp3.1\7 - 10001prime.genruntimeconfig.cache

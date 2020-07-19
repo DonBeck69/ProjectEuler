@@ -1,0 +1,13 @@
+D:\Dev\Euler\17 - NumberWordCount\bin\Debug\netcoreapp3.1\17 - NumberWordCount.exe
+D:\Dev\Euler\17 - NumberWordCount\bin\Debug\netcoreapp3.1\17 - NumberWordCount.deps.json
+D:\Dev\Euler\17 - NumberWordCount\bin\Debug\netcoreapp3.1\17 - NumberWordCount.runtimeconfig.json
+D:\Dev\Euler\17 - NumberWordCount\bin\Debug\netcoreapp3.1\17 - NumberWordCount.runtimeconfig.dev.json
+D:\Dev\Euler\17 - NumberWordCount\bin\Debug\netcoreapp3.1\17 - NumberWordCount.dll
+D:\Dev\Euler\17 - NumberWordCount\bin\Debug\netcoreapp3.1\17 - NumberWordCount.pdb
+D:\Dev\Euler\17 - NumberWordCount\obj\Debug\netcoreapp3.1\17 - NumberWordCount.csprojAssemblyReference.cache
+D:\Dev\Euler\17 - NumberWordCount\obj\Debug\netcoreapp3.1\17 - NumberWordCount.AssemblyInfoInputs.cache
+D:\Dev\Euler\17 - NumberWordCount\obj\Debug\netcoreapp3.1\17 - NumberWordCount.AssemblyInfo.cs
+D:\Dev\Euler\17 - NumberWordCount\obj\Debug\netcoreapp3.1\17 - NumberWordCount.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\17 - NumberWordCount\obj\Debug\netcoreapp3.1\17 - NumberWordCount.dll
+D:\Dev\Euler\17 - NumberWordCount\obj\Debug\netcoreapp3.1\17 - NumberWordCount.pdb
+D:\Dev\Euler\17 - NumberWordCount\obj\Debug\netcoreapp3.1\17 - NumberWordCount.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Dev\Euler\8 - largestProduct\bin\Debug\netcoreapp3.1\8 - largestProduct.exe
+D:\Dev\Euler\8 - largestProduct\bin\Debug\netcoreapp3.1\8 - largestProduct.deps.json
+D:\Dev\Euler\8 - largestProduct\bin\Debug\netcoreapp3.1\8 - largestProduct.runtimeconfig.json
+D:\Dev\Euler\8 - largestProduct\bin\Debug\netcoreapp3.1\8 - largestProduct.runtimeconfig.dev.json
+D:\Dev\Euler\8 - largestProduct\bin\Debug\netcoreapp3.1\8 - largestProduct.dll
+D:\Dev\Euler\8 - largestProduct\bin\Debug\netcoreapp3.1\8 - largestProduct.pdb
+D:\Dev\Euler\8 - largestProduct\obj\Debug\netcoreapp3.1\8 - largestProduct.csprojAssemblyReference.cache
+D:\Dev\Euler\8 - largestProduct\obj\Debug\netcoreapp3.1\8 - largestProduct.AssemblyInfoInputs.cache
+D:\Dev\Euler\8 - largestProduct\obj\Debug\netcoreapp3.1\8 - largestProduct.AssemblyInfo.cs
+D:\Dev\Euler\8 - largestProduct\obj\Debug\netcoreapp3.1\8 - largestProduct.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\8 - largestProduct\obj\Debug\netcoreapp3.1\8 - largestProduct.dll
+D:\Dev\Euler\8 - largestProduct\obj\Debug\netcoreapp3.1\8 - largestProduct.pdb
+D:\Dev\Euler\8 - largestProduct\obj\Debug\netcoreapp3.1\8 - largestProduct.genruntimeconfig.cache

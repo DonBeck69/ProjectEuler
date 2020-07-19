@@ -1,0 +1,13 @@
+D:\Dev\Euler\6 - SumSquareDiff\bin\Debug\netcoreapp3.1\6 - SumSquareDiff.exe
+D:\Dev\Euler\6 - SumSquareDiff\bin\Debug\netcoreapp3.1\6 - SumSquareDiff.deps.json
+D:\Dev\Euler\6 - SumSquareDiff\bin\Debug\netcoreapp3.1\6 - SumSquareDiff.runtimeconfig.json
+D:\Dev\Euler\6 - SumSquareDiff\bin\Debug\netcoreapp3.1\6 - SumSquareDiff.runtimeconfig.dev.json
+D:\Dev\Euler\6 - SumSquareDiff\bin\Debug\netcoreapp3.1\6 - SumSquareDiff.dll
+D:\Dev\Euler\6 - SumSquareDiff\bin\Debug\netcoreapp3.1\6 - SumSquareDiff.pdb
+D:\Dev\Euler\6 - SumSquareDiff\obj\Debug\netcoreapp3.1\6 - SumSquareDiff.csprojAssemblyReference.cache
+D:\Dev\Euler\6 - SumSquareDiff\obj\Debug\netcoreapp3.1\6 - SumSquareDiff.AssemblyInfoInputs.cache
+D:\Dev\Euler\6 - SumSquareDiff\obj\Debug\netcoreapp3.1\6 - SumSquareDiff.AssemblyInfo.cs
+D:\Dev\Euler\6 - SumSquareDiff\obj\Debug\netcoreapp3.1\6 - SumSquareDiff.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\6 - SumSquareDiff\obj\Debug\netcoreapp3.1\6 - SumSquareDiff.dll
+D:\Dev\Euler\6 - SumSquareDiff\obj\Debug\netcoreapp3.1\6 - SumSquareDiff.pdb
+D:\Dev\Euler\6 - SumSquareDiff\obj\Debug\netcoreapp3.1\6 - SumSquareDiff.genruntimeconfig.cache

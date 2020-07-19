@@ -1,0 +1,26 @@
+D:\Dev\Euler\1\bin\Debug\netcoreapp3.1\1.exe
+D:\Dev\Euler\1\bin\Debug\netcoreapp3.1\1.deps.json
+D:\Dev\Euler\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+D:\Dev\Euler\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+D:\Dev\Euler\1\bin\Debug\netcoreapp3.1\1.dll
+D:\Dev\Euler\1\bin\Debug\netcoreapp3.1\1.pdb
+D:\Dev\Euler\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+D:\Dev\Euler\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+D:\Dev\Euler\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+D:\Dev\Euler\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+D:\Dev\Euler\1\obj\Debug\netcoreapp3.1\1.dll
+D:\Dev\Euler\1\obj\Debug\netcoreapp3.1\1.pdb
+D:\Dev\Euler\1\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache
+D:\Dev\ProjectEuler\1 - Multiples\bin\Debug\netcoreapp3.1\1.exe
+D:\Dev\ProjectEuler\1 - Multiples\bin\Debug\netcoreapp3.1\1.deps.json
+D:\Dev\ProjectEuler\1 - Multiples\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+D:\Dev\ProjectEuler\1 - Multiples\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+D:\Dev\ProjectEuler\1 - Multiples\bin\Debug\netcoreapp3.1\1.dll
+D:\Dev\ProjectEuler\1 - Multiples\bin\Debug\netcoreapp3.1\1.pdb
+D:\Dev\ProjectEuler\1 - Multiples\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+D:\Dev\ProjectEuler\1 - Multiples\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+D:\Dev\ProjectEuler\1 - Multiples\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+D:\Dev\ProjectEuler\1 - Multiples\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+D:\Dev\ProjectEuler\1 - Multiples\obj\Debug\netcoreapp3.1\1.dll
+D:\Dev\ProjectEuler\1 - Multiples\obj\Debug\netcoreapp3.1\1.pdb
+D:\Dev\ProjectEuler\1 - Multiples\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache
