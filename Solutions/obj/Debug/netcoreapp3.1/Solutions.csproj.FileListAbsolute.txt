@@ -1,0 +1,9 @@
+D:\Dev\ProjectEuler\Solutions\bin\Debug\netcoreapp3.1\Solutions.deps.json
+D:\Dev\ProjectEuler\Solutions\bin\Debug\netcoreapp3.1\Solutions.dll
+D:\Dev\ProjectEuler\Solutions\bin\Debug\netcoreapp3.1\Solutions.pdb
+D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.AssemblyInfoInputs.cache
+D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.AssemblyInfo.cs
+D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.csproj.CoreCompileInputs.cache
+D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.dll
+D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.pdb
+D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.csprojAssemblyReference.cache

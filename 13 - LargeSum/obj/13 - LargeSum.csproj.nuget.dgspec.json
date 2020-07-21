@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Euler\\13 - LargeSum\\13 - LargeSum.csproj": {}
+    "D:\\Dev\\ProjectEuler\\13 - LargeSum\\13 - LargeSum.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Euler\\13 - LargeSum\\13 - LargeSum.csproj": {
+    "D:\\Dev\\ProjectEuler\\13 - LargeSum\\13 - LargeSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Euler\\13 - LargeSum\\13 - LargeSum.csproj",
+        "projectUniqueName": "D:\\Dev\\ProjectEuler\\13 - LargeSum\\13 - LargeSum.csproj",
         "projectName": "13 - LargeSum",
-        "projectPath": "D:\\Dev\\Euler\\13 - LargeSum\\13 - LargeSum.csproj",
+        "projectPath": "D:\\Dev\\ProjectEuler\\13 - LargeSum\\13 - LargeSum.csproj",
         "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Euler\\13 - LargeSum\\obj\\",
+        "outputPath": "D:\\Dev\\ProjectEuler\\13 - LargeSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

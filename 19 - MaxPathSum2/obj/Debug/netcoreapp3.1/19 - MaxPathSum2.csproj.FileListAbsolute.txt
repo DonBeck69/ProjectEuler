@@ -1,0 +1,18 @@
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\19 - MaxPathSum2.exe
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\19 - MaxPathSum2.deps.json
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\19 - MaxPathSum2.runtimeconfig.json
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\19 - MaxPathSum2.runtimeconfig.dev.json
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\19 - MaxPathSum2.dll
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\19 - MaxPathSum2.pdb
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\Solutions.dll
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\Solutions.pdb
+D:\Dev\ProjectEuler\19 - MaxPathSum2\obj\Debug\netcoreapp3.1\19 - MaxPathSum2.csprojAssemblyReference.cache
+D:\Dev\ProjectEuler\19 - MaxPathSum2\obj\Debug\netcoreapp3.1\19 - MaxPathSum2.AssemblyInfoInputs.cache
+D:\Dev\ProjectEuler\19 - MaxPathSum2\obj\Debug\netcoreapp3.1\19 - MaxPathSum2.AssemblyInfo.cs
+D:\Dev\ProjectEuler\19 - MaxPathSum2\obj\Debug\netcoreapp3.1\19 - MaxPathSum2.csproj.CoreCompileInputs.cache
+D:\Dev\ProjectEuler\19 - MaxPathSum2\obj\Debug\netcoreapp3.1\19 - MaxPathSum2.csproj.CopyComplete
+D:\Dev\ProjectEuler\19 - MaxPathSum2\obj\Debug\netcoreapp3.1\19 - MaxPathSum2.dll
+D:\Dev\ProjectEuler\19 - MaxPathSum2\obj\Debug\netcoreapp3.1\19 - MaxPathSum2.pdb
+D:\Dev\ProjectEuler\19 - MaxPathSum2\obj\Debug\netcoreapp3.1\19 - MaxPathSum2.genruntimeconfig.cache
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\triangle1.txt
+D:\Dev\ProjectEuler\19 - MaxPathSum2\bin\Debug\netcoreapp3.1\triangle2.txt

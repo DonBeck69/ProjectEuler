@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\Euler\\16 - PowerDigitSum big numbers\\16 - PowerDigitSum big numbers.csproj",
+      "projectUniqueName": "D:\\Dev\\ProjectEuler\\16 - PowerDigitSum big numbers\\16 - PowerDigitSum big numbers.csproj",
       "projectName": "16 - PowerDigitSum big numbers",
-      "projectPath": "D:\\Dev\\Euler\\16 - PowerDigitSum big numbers\\16 - PowerDigitSum big numbers.csproj",
+      "projectPath": "D:\\Dev\\ProjectEuler\\16 - PowerDigitSum big numbers\\16 - PowerDigitSum big numbers.csproj",
       "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\Euler\\16 - PowerDigitSum big numbers\\obj\\",
+      "outputPath": "D:\\Dev\\ProjectEuler\\16 - PowerDigitSum big numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

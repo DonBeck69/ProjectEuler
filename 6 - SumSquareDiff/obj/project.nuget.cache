@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f/aoWuVEr7XCyxHCt8DhMbNMWpx/7kYo/q1SP7E44oRLcl4PyS/jTghZObncd6C+3R0d3muCSOVEzYRamR8P/Q==",
+  "dgSpecHash": "0sn2qTSqlsRtdMbbAEo2+4Jkp8eEe8uLM6ehMnyr/t8H9lHTvReYeZL4xd0FTeJOf6rJ8pkLsfzDCcKy/uV2Vg==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Euler\\6 - SumSquareDiff\\6 - SumSquareDiff.csproj",
+  "projectFilePath": "D:\\Dev\\ProjectEuler\\6 - SumSquareDiff\\6 - SumSquareDiff.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

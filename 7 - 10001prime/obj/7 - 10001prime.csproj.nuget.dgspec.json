@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Euler\\7 - 10001prime\\7 - 10001prime.csproj": {}
+    "D:\\Dev\\ProjectEuler\\7 - 10001prime\\7 - 10001prime.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Euler\\7 - 10001prime\\7 - 10001prime.csproj": {
+    "D:\\Dev\\ProjectEuler\\7 - 10001prime\\7 - 10001prime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Euler\\7 - 10001prime\\7 - 10001prime.csproj",
+        "projectUniqueName": "D:\\Dev\\ProjectEuler\\7 - 10001prime\\7 - 10001prime.csproj",
         "projectName": "7 - 10001prime",
-        "projectPath": "D:\\Dev\\Euler\\7 - 10001prime\\7 - 10001prime.csproj",
+        "projectPath": "D:\\Dev\\ProjectEuler\\7 - 10001prime\\7 - 10001prime.csproj",
         "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Euler\\7 - 10001prime\\obj\\",
+        "outputPath": "D:\\Dev\\ProjectEuler\\7 - 10001prime\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

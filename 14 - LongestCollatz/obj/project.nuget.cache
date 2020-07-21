@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rFih3FfTCM0TAAvNQFXzrh0Zp1ipyoWgM5o55nADGk7yms8kBp/U+x6OcROEwGIdlQQKnwc/7Y/b1knqhUj4/A==",
+  "dgSpecHash": "yBKnY6AO54HCiw4x2avUUX7YibdbVtRXkbr25t78XDK2x7WaU8HNIZBlOmFQRiT11KBASHIWp98Uy/DmwGEEKg==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Euler\\14 - LongestCollatz\\14 - LongestCollatz.csproj",
+  "projectFilePath": "D:\\Dev\\ProjectEuler\\14 - LongestCollatz\\14 - LongestCollatz.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

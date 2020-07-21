@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Euler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj": {}
+    "D:\\Dev\\ProjectEuler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Euler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj": {
+    "D:\\Dev\\ProjectEuler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Euler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj",
+        "projectUniqueName": "D:\\Dev\\ProjectEuler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj",
         "projectName": "12 - TriangleNumbers",
-        "projectPath": "D:\\Dev\\Euler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj",
+        "projectPath": "D:\\Dev\\ProjectEuler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj",
         "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Euler\\12 - TriangleNumbers\\obj\\",
+        "outputPath": "D:\\Dev\\ProjectEuler\\12 - TriangleNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

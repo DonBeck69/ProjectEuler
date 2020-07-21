@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gFbRq1JtiYZqkwKfWB54drWv2NC0Bkt3Kp0Ua2RgHVsUwYrgncPzoQFZ/JRx1HVLYVKG5heihfvBbCafv+iMdA==",
+  "dgSpecHash": "3cznkdo4O0F2jaNy4ShjmD0KQhwDGl9AdK8VeAmVIQQQ89nLBWlmtECeon4yT4h1xm2hhc7Wz7xeVTfzBUoY3Q==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Euler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj",
+  "projectFilePath": "D:\\Dev\\ProjectEuler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

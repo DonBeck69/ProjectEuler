@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VPyq3qlX473Y3vJsWkcmnI30rJ/vooNPOJ7OwmrUg4oQzufk7vpJOWZZ5OwVxHylJ63PbT0Jqgqp2BvgubQ1/g==",
+  "dgSpecHash": "S+eUTxTk5Pc4y7QY53fzWTWddhfzQOGoN+dycNj7DAjdPsrYhz4sQafAnGIrWCJ0stIgdlOgMuWiJYaCOEf3MQ==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Euler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj",
+  "projectFilePath": "D:\\Dev\\ProjectEuler\\12 - TriangleNumbers\\12 - TriangleNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

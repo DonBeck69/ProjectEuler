@@ -1,0 +1,16 @@
+D:\Dev\ProjectEuler\19 - CountSundays\bin\Debug\netcoreapp3.1\19 - CountSundays.exe
+D:\Dev\ProjectEuler\19 - CountSundays\bin\Debug\netcoreapp3.1\19 - CountSundays.deps.json
+D:\Dev\ProjectEuler\19 - CountSundays\bin\Debug\netcoreapp3.1\19 - CountSundays.runtimeconfig.json
+D:\Dev\ProjectEuler\19 - CountSundays\bin\Debug\netcoreapp3.1\19 - CountSundays.runtimeconfig.dev.json
+D:\Dev\ProjectEuler\19 - CountSundays\bin\Debug\netcoreapp3.1\19 - CountSundays.dll
+D:\Dev\ProjectEuler\19 - CountSundays\bin\Debug\netcoreapp3.1\19 - CountSundays.pdb
+D:\Dev\ProjectEuler\19 - CountSundays\bin\Debug\netcoreapp3.1\Solutions.dll
+D:\Dev\ProjectEuler\19 - CountSundays\bin\Debug\netcoreapp3.1\Solutions.pdb
+D:\Dev\ProjectEuler\19 - CountSundays\obj\Debug\netcoreapp3.1\19 - CountSundays.csprojAssemblyReference.cache
+D:\Dev\ProjectEuler\19 - CountSundays\obj\Debug\netcoreapp3.1\19 - CountSundays.AssemblyInfoInputs.cache
+D:\Dev\ProjectEuler\19 - CountSundays\obj\Debug\netcoreapp3.1\19 - CountSundays.AssemblyInfo.cs
+D:\Dev\ProjectEuler\19 - CountSundays\obj\Debug\netcoreapp3.1\19 - CountSundays.csproj.CoreCompileInputs.cache
+D:\Dev\ProjectEuler\19 - CountSundays\obj\Debug\netcoreapp3.1\19 - CountSundays.csproj.CopyComplete
+D:\Dev\ProjectEuler\19 - CountSundays\obj\Debug\netcoreapp3.1\19 - CountSundays.dll
+D:\Dev\ProjectEuler\19 - CountSundays\obj\Debug\netcoreapp3.1\19 - CountSundays.pdb
+D:\Dev\ProjectEuler\19 - CountSundays\obj\Debug\netcoreapp3.1\19 - CountSundays.genruntimeconfig.cache

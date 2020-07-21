@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i/hx3j3k2OMNI1kyNxu67leATTkH+/UHGU/KacPYvycY7mQ+970Wt0OeYBsQy/Nk5OEHaJ1AAUCpshIBjxXmOw==",
+  "dgSpecHash": "O0paaY/e0ULCzkYcBeoLocAFMTg0XSS3iogWQrGEgq/PzLQ9mUndJmfRGXvmskzh7YkGFZnWkY39ftwzDeTVuw==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Euler\\10 - SumOfPrimes\\10 - SumOfPrimes.csproj",
+  "projectFilePath": "D:\\Dev\\ProjectEuler\\10 - SumOfPrimes\\10 - SumOfPrimes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

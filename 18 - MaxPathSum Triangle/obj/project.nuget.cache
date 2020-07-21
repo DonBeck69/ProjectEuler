@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lkv4zT3bcuinP6HyjDWIbVu5/8fwE2jWd/0Bm3tkk7LQ3VX2So/wS6WDuDQZyzwbxIUMoYKFr+FzopCil+qsXg==",
+  "dgSpecHash": "SpRQXbp2UkLu3tKSHMCrc7RCA8JoIjtvFpu9bJSYByx4kVSYYA3/t5c4nO+H2QQXMLAp3XbZLaePUcT6c5n9Hg==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Euler\\18 - MaxPathSum Triangle\\18 - MaxPathSum Triangle.csproj",
+  "projectFilePath": "D:\\Dev\\ProjectEuler\\18 - MaxPathSum Triangle\\18 - MaxPathSum Triangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

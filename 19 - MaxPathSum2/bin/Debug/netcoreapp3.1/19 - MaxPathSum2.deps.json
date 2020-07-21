@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "19 - MaxPathSum2/1.0.0": {
+        "dependencies": {
+          "Solutions": "1.0.0"
+        },
+        "runtime": {
+          "19 - MaxPathSum2.dll": {}
+        }
+      },
+      "Solutions/1.0.0": {
+        "runtime": {
+          "Solutions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "19 - MaxPathSum2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Solutions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\Euler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj": {}
+    "D:\\Dev\\ProjectEuler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\Euler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj": {
+    "D:\\Dev\\ProjectEuler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\Euler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj",
+        "projectUniqueName": "D:\\Dev\\ProjectEuler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj",
         "projectName": "15 - LaticePaths",
-        "projectPath": "D:\\Dev\\Euler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj",
+        "projectPath": "D:\\Dev\\ProjectEuler\\15 - LaticePaths pascal triangle\\15 - LaticePaths.csproj",
         "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\Euler\\15 - LaticePaths pascal triangle\\obj\\",
+        "outputPath": "D:\\Dev\\ProjectEuler\\15 - LaticePaths pascal triangle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

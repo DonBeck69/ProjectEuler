@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AFRAP1U0sf031axCGqZJPt1yw06CcBGKhnmJpPVbSq4LedFCh/E6C6p8DD1PUYvuVySQIo/mq4vwMtMHGeaHjg==",
+  "dgSpecHash": "suEdy0tQiK9+3TvYi4iiYYQamlyxo5C1UFlGWnGF9UKIUCoES9DSqZYPfX7zcLj6rOEel8MD+8Iz9TQYO78DUw==",
   "success": true,
-  "projectFilePath": "D:\\Dev\\Euler\\7 - 10001prime\\7 - 10001prime.csproj",
+  "projectFilePath": "D:\\Dev\\ProjectEuler\\7 - 10001prime\\7 - 10001prime.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
