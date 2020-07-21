@@ -1,0 +1,16 @@
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\bin\Debug\netcoreapp3.1\20 - FactoralDigitSum.exe
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\bin\Debug\netcoreapp3.1\20 - FactoralDigitSum.deps.json
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\bin\Debug\netcoreapp3.1\20 - FactoralDigitSum.runtimeconfig.json
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\bin\Debug\netcoreapp3.1\20 - FactoralDigitSum.runtimeconfig.dev.json
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\bin\Debug\netcoreapp3.1\20 - FactoralDigitSum.dll
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\bin\Debug\netcoreapp3.1\20 - FactoralDigitSum.pdb
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\obj\Debug\netcoreapp3.1\20 - FactoralDigitSum.AssemblyInfoInputs.cache
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\obj\Debug\netcoreapp3.1\20 - FactoralDigitSum.AssemblyInfo.cs
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\obj\Debug\netcoreapp3.1\20 - FactoralDigitSum.csproj.CoreCompileInputs.cache
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\obj\Debug\netcoreapp3.1\20 - FactoralDigitSum.dll
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\obj\Debug\netcoreapp3.1\20 - FactoralDigitSum.pdb
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\obj\Debug\netcoreapp3.1\20 - FactoralDigitSum.genruntimeconfig.cache
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\bin\Debug\netcoreapp3.1\Solutions.dll
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\bin\Debug\netcoreapp3.1\Solutions.pdb
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\obj\Debug\netcoreapp3.1\20 - FactoralDigitSum.csprojAssemblyReference.cache
+D:\Dev\ProjectEuler\20 - FactoralDigitSum\obj\Debug\netcoreapp3.1\20 - FactoralDigitSum.csproj.CopyComplete

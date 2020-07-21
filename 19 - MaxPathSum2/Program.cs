@@ -12,7 +12,7 @@ namespace _67___MaxPathSum2
             string[] lines = File.ReadAllLines(@"./triangle2.txt"); // triangle1 // triangle2
             int[][] triangle= new int[lines.Length][];
             MaxPath mp = new MaxPath();
-            StringArrayToIntArray sat = new StringArrayToIntArray();
+            ArrayFunctions sat = new ArrayFunctions();
             for (int index = 0; index <= lines.Length - 1; index++)
             {
                 string[] strings = lines[index].Split(' ', StringSplitOptions.None);
