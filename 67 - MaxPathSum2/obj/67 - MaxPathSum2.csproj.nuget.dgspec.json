@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\ProjectEuler\\19 - MaxPathSum2\\67 - MaxPathSum2.csproj": {}
+    "D:\\Dev\\ProjectEuler\\67 - MaxPathSum2\\67 - MaxPathSum2.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\ProjectEuler\\19 - MaxPathSum2\\67 - MaxPathSum2.csproj": {
+    "D:\\Dev\\ProjectEuler\\67 - MaxPathSum2\\67 - MaxPathSum2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\ProjectEuler\\19 - MaxPathSum2\\67 - MaxPathSum2.csproj",
+        "projectUniqueName": "D:\\Dev\\ProjectEuler\\67 - MaxPathSum2\\67 - MaxPathSum2.csproj",
         "projectName": "67 - MaxPathSum2",
-        "projectPath": "D:\\Dev\\ProjectEuler\\19 - MaxPathSum2\\67 - MaxPathSum2.csproj",
+        "projectPath": "D:\\Dev\\ProjectEuler\\67 - MaxPathSum2\\67 - MaxPathSum2.csproj",
         "packagesPath": "C:\\Users\\donov\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\ProjectEuler\\19 - MaxPathSum2\\obj\\",
+        "outputPath": "D:\\Dev\\ProjectEuler\\67 - MaxPathSum2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
