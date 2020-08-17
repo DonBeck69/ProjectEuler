@@ -6,4 +6,3 @@ D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.AssemblyInfo.cs
 D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.csproj.CoreCompileInputs.cache
 D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.dll
 D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.pdb
-D:\Dev\ProjectEuler\Solutions\obj\Debug\netcoreapp3.1\Solutions.csprojAssemblyReference.cache

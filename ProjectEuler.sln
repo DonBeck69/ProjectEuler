@@ -41,17 +41,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17 - NumberWordCount", "17 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18 - MaxPathSum Triangle", "18 - MaxPathSum Triangle\18 - MaxPathSum Triangle.csproj", "{193E6E5D-90B7-4821-B38D-37985A6D7F23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67 - MaxPathSum2", "19 - MaxPathSum2\67 - MaxPathSum2.csproj", "{18792235-FE90-4C21-B965-6382F84C3EE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solutions", "Solutions\Solutions.csproj", "{610AA400-011F-4407-9396-60EBFAFD308B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solutions", "Solutions\Solutions.csproj", "{610AA400-011F-4407-9396-60EBFAFD308B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19 - CountSundays", "19 - CountSundays\19 - CountSundays.csproj", "{8F8FF4BD-82C1-408F-95DE-339A0E9BD407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19 - CountSundays", "19 - CountSundays\19 - CountSundays.csproj", "{8F8FF4BD-82C1-408F-95DE-339A0E9BD407}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20 - FactoralDigitSum", "20 - FactoralDigitSum\20 - FactoralDigitSum.csproj", "{203DBA48-46C9-4E79-A63C-AB15BAC428B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 - FactoralDigitSum", "20 - FactoralDigitSum\20 - FactoralDigitSum.csproj", "{203DBA48-46C9-4E79-A63C-AB15BAC428B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21 - AmicableNumbers", "..\21 - AmicableNumbers\21 - AmicableNumbers.csproj", "{0F0B65AC-BA05-4A9D-A9E3-945C272D00F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 - AmicableNumbers", "..\21 - AmicableNumbers\21 - AmicableNumbers.csproj", "{0F0B65AC-BA05-4A9D-A9E3-945C272D00F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestCon", "..\TestCon\TestCon.csproj", "{0BEDB7D2-3A5F-46C3-ACEE-FD2C82D33F08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCon", "..\TestCon\TestCon.csproj", "{0BEDB7D2-3A5F-46C3-ACEE-FD2C82D33F08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "67 - MaxPathSum2", "67 - MaxPathSum2\67 - MaxPathSum2.csproj", "{1F231448-6B93-4002-945E-4C09B2BDF5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22NameScores", "22NameScores\22NameScores.csproj", "{7D2E3C32-955D-4AB4-A133-D491EE22727C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,10 +137,6 @@ Global
 		{193E6E5D-90B7-4821-B38D-37985A6D7F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{193E6E5D-90B7-4821-B38D-37985A6D7F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{193E6E5D-90B7-4821-B38D-37985A6D7F23}.Release|Any CPU.Build.0 = Release|Any CPU
-		{18792235-FE90-4C21-B965-6382F84C3EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{18792235-FE90-4C21-B965-6382F84C3EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{18792235-FE90-4C21-B965-6382F84C3EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{18792235-FE90-4C21-B965-6382F84C3EE9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{610AA400-011F-4407-9396-60EBFAFD308B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{610AA400-011F-4407-9396-60EBFAFD308B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{610AA400-011F-4407-9396-60EBFAFD308B}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -159,6 +157,14 @@ Global
 		{0BEDB7D2-3A5F-46C3-ACEE-FD2C82D33F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BEDB7D2-3A5F-46C3-ACEE-FD2C82D33F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BEDB7D2-3A5F-46C3-ACEE-FD2C82D33F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F231448-6B93-4002-945E-4C09B2BDF5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F231448-6B93-4002-945E-4C09B2BDF5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F231448-6B93-4002-945E-4C09B2BDF5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F231448-6B93-4002-945E-4C09B2BDF5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2E3C32-955D-4AB4-A133-D491EE22727C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2E3C32-955D-4AB4-A133-D491EE22727C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2E3C32-955D-4AB4-A133-D491EE22727C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2E3C32-955D-4AB4-A133-D491EE22727C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

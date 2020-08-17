@@ -1,0 +1,17 @@
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\22NameScores.exe
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\22NameScores.deps.json
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\22NameScores.runtimeconfig.json
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\22NameScores.runtimeconfig.dev.json
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\22NameScores.dll
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\22NameScores.pdb
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\Solutions.dll
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\Solutions.pdb
+D:\Dev\ProjectEuler\22NameScores\obj\Debug\netcoreapp3.1\22NameScores.csprojAssemblyReference.cache
+D:\Dev\ProjectEuler\22NameScores\obj\Debug\netcoreapp3.1\22NameScores.AssemblyInfoInputs.cache
+D:\Dev\ProjectEuler\22NameScores\obj\Debug\netcoreapp3.1\22NameScores.AssemblyInfo.cs
+D:\Dev\ProjectEuler\22NameScores\obj\Debug\netcoreapp3.1\22NameScores.csproj.CoreCompileInputs.cache
+D:\Dev\ProjectEuler\22NameScores\obj\Debug\netcoreapp3.1\22NameScores.csproj.CopyComplete
+D:\Dev\ProjectEuler\22NameScores\obj\Debug\netcoreapp3.1\22NameScores.dll
+D:\Dev\ProjectEuler\22NameScores\obj\Debug\netcoreapp3.1\22NameScores.pdb
+D:\Dev\ProjectEuler\22NameScores\obj\Debug\netcoreapp3.1\22NameScores.genruntimeconfig.cache
+D:\Dev\ProjectEuler\22NameScores\bin\Debug\netcoreapp3.1\names.txt

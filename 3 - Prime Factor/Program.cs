@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace _3___Prime_Factor
 {
@@ -77,6 +78,53 @@ namespace _3___Prime_Factor
 
             return primes;
         }
+
+        public int GetNumberOfDivisors(long Tnumber)
+        {
+            int divisorCount = 0;
+            double sqirt = Math.Sqrt(Tnumber);
+            for (int count = 1; count <= sqirt; count++)
+            {
+                if (Tnumber % count == 0)
+                {
+                    if (Tnumber / count == count)
+                    {
+                        divisorCount++;
+                    }
+                    else
+                    {
+                        divisorCount += 2;
+                    }
+                }
+            }
+            return divisorCount;
+
+        }
+
+        public List<int> GetFactors(int Tnumber)
+        {
+            List<int> divisorCount = new List<int>();
+            double sqirt = Math.Sqrt(Tnumber);
+            for (int count = 1; count <= sqirt; count++)
+            {
+                if (Tnumber % count == 0)
+                {
+                    if (Tnumber / count == count)
+                    {
+                        divisorCount.Add(Tnumber / count);
+                        //divisorCount++;
+                    }
+                    //else
+                    //{
+                    //    divisorCount += 2;
+                    //}
+                }
+            }
+            return divisorCount;
+
+        }
+
+
 
 
     }
